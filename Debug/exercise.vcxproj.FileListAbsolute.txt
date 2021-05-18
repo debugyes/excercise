@@ -1,0 +1,2 @@
+C:\Users\megumi\Desktop\Code\Software Development\exercise\Debug\exercise.exe
+C:\Users\megumi\Desktop\Code\Software Development\exercise\Debug\exercise.pdb
